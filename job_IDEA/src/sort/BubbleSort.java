@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  */
 public class BubbleSort {
-	//ÉýÐòÅÅÁÐ
+	//ÉýÐòÅÅÁÐkeehheheh
 	public static void sort(int[] array) {
 		boolean flag = true;
 		for(int i=array.length-1; i>0; i--) {

@@ -27,7 +27,6 @@ public class Ziji {
 		public static void main(String[] args) {
 			int[] t = new int[] {1,2,3};
 			System.out.println(subsets(t));
-			
 		}
 	
 }
